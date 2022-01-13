@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: ParaisoVice Community
+title: ParaisoVice | Blog Oficial
+description: Este blog es el BLOG oficial de ParaisoVice.
 tags:
   - blog
   - template
@@ -11,15 +10,15 @@ tags:
   - netlify
 show_hero: true
 menu:
-  - title: Home
+  - title: Inicio
     url: /
-  - title: About
+  - title: Nosotros
     url: /about
-  - title: Contact
+  - title: Contactanos
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: paraisovice@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
@@ -28,13 +27,10 @@ formspree_form_id: formspree_form_id
 
 
 # Social Media Settings
-# Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+facebook_username: ParaisoVice
+twitter_username: ParaisoVice
+instagram_username: ParaisoVice
+medium_username: ParaisoVice
 
 
 # Posts Settings
